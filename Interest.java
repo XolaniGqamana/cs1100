@@ -16,7 +16,7 @@ public class Interest {
 
 		/* Do the computations. */
 		principal = 17000;
-		rate = 0.027;
+		rate = 0.15; //Changed rate to 15%
 		interest = principal * rate; // Compute the interest.
 		principal = principal + interest;
 
