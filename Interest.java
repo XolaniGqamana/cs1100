@@ -15,7 +15,7 @@ public class Interest {
 		double interest; // Interest earned in one year.
 
 		/* Do the computations. */
-		principal = 17000;
+		principal = 200000; //Increased the principal
 		rate = 0.15; //Changed rate to 15%
 		interest = principal * rate; // Compute the interest.
 		principal = principal + interest;
